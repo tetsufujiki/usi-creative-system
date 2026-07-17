@@ -879,7 +879,7 @@ Color Tokens should distinguish:
 - accent.
 - focus.
 - interactive.
-- status where product extensions require it.
+- status where the Interaction Extension requires it.
 - expressive atmosphere.
 
 A brand color is not automatically appropriate
@@ -1139,7 +1139,7 @@ Every meaningful motion should be traceable to:
 - a Creative Principle.
 - a perceptual change.
 - a Pattern transition.
-- an Interface state in a product extension.
+- an Interface state in the Interaction Extension.
 - a clear spatial relationship.
 
 If the source cannot be named,

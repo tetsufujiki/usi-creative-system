@@ -84,10 +84,9 @@ It does not define:
 - technical implementation.
 - conversion patterns.
 
-Those decisions belong to later interaction,
-workflow,
-UI,
-and implementation chapters.
+Those decisions belong to
+the future Interaction Extension
+and 07 — IMPLEMENTATION CONTRACT.
 
 The primary context of this chapter is expressive and editorial experience:
 
@@ -96,6 +95,76 @@ The primary context of this chapter is expressive and editorial experience:
 - project and work archives.
 - service and creative philosophy pages.
 - experiences composed through Photography, language, Space, and Creative Phenomena.
+
+### CORE TERMINOLOGY
+
+**Moment**
+
+One central change in perception.
+
+**Dominant Moment**
+
+The Moment that currently holds
+the center of the perceptual frame.
+
+**Primary**
+
+The element or relationship
+that directly establishes the change
+within one Moment.
+
+**Supporting**
+
+An element or expression
+that clarifies or deepens
+the Primary meaning.
+
+**Focus**
+
+The Primary meaning
+toward which attention moves.
+
+**Pattern**
+
+A reusable relationship
+between one or more Moments,
+defined in 06 — COMPOSITION PATTERNS.
+
+A Pattern does not replace
+the individual perceptual change
+defined for each Moment.
+
+### PHASE AND PATTERN NAMING
+
+Lowercase terms such as:
+
+```text
+entry
+statement
+movement
+release
+```
+
+describe phases within attention,
+rhythm,
+or temporal behavior.
+
+Capitalized terms such as:
+
+```text
+Entry
+Statement
+Release
+```
+
+refer to Core Composition Patterns
+defined in 06 — COMPOSITION PATTERNS.
+
+Release Principle refers
+to the Creative Principle defined in 02.
+
+Release Pattern refers
+to the Composition Pattern defined in 06.
 
 ## 04.1 — ONE MOMENT PER SCREEN
 
@@ -322,7 +391,7 @@ entry
 → release
 ```
 
-**Entry**
+**entry**
 
 Signals that a new Moment has begun.
 
@@ -334,7 +403,7 @@ Establishes the central meaning.
 
 Provides the context needed to understand or deepen it.
 
-**Release**
+**release**
 
 Reduces intensity,
 allows meaning to settle,
@@ -410,7 +479,7 @@ silence
 
 Creates room before meaning appears.
 
-**Statement**
+**statement**
 
 Makes the center of the Moment clear.
 
@@ -420,7 +489,7 @@ Allows relation,
 change,
 or progression to become perceptible.
 
-**Release**
+**release**
 
 Reduces intensity
 and allows the experience to become stable again.
@@ -691,7 +760,7 @@ A final Interface may be present.
 It should emerge as a natural continuation of the experience,
 not as a sudden change in tone.
 
-Release is not an empty ending.
+A release phase is not an empty ending.
 
 It is the point at which the experience reaches an appropriate level of quiet.
 
@@ -764,12 +833,14 @@ The following principles remain valid,
 but they primarily concern interactive products
 rather than expressive or editorial experiences.
 
-They are reserved for a later chapter such as:
+They are reserved for the future Interaction Extension:
 
-- INTERACTION PRINCIPLES.
-- WORKFLOW PATTERNS.
-- PRODUCT BEHAVIOR.
-- INTERFACE STATES.
+```text
+Interaction Extension
+├── Interaction Principles
+├── Workflow Patterns
+└── Interface States
+```
 
 ### SHOW BEFORE ASKING
 

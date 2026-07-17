@@ -69,38 +69,23 @@ The feeling must not.
 
 ### CREATIVE COMPASS
 
-Creative Compass は、
-Creative System 全体の座標であり、
-個別の思想や表現要素を列挙する場所ではありません。
+CREATIVE_COMPASS.md is the sole source of truth
+for the Creative Compass axes.
 
-Compass は意図的に最小構成とします。
+This editorial document defines
+how the Compass is governed.
 
-```
-Movement
-        ↕
-Stillness
+It must not duplicate
+the current axes or their exact presentation.
 
-Contrast
-        ↕
-Harmony
+The Compass remains intentionally minimal.
 
-Dialogue
-        ↕
-Creation
-```
+New ideas should first be tested
+against the existing axes.
 
-この三軸を Creative System の基準とします。
-
-新しい軸を追加することは原則として行いません。
-
-Creative System が成長した場合も、
-まず既存の三軸で説明できるかを検討してください。
-
-既存の三軸では Creative System 全体を説明できなくなった場合にのみ、
-Creative Compass の見直しを検討します。
-
-Compass は拡張するためのものではなく、
-Creative System の中心を保ち続けるためのものです。
+The Compass should be reconsidered only when
+the existing axes can no longer explain
+the Creative System as a whole.
 
 ## 00.3 — FRAGMENT WORKFLOW
 
@@ -110,8 +95,35 @@ Fragments are reviewed before becoming part of the Creative System.
 
 No fragment is added directly to the main documents.
 
-Structure Freeze v1 を維持し、
-今後は章構成ではなく本文を Fragment 単位で育てます。
+### CORE STRUCTURE FREEZE V2
 
-新しい章の追加提案は行わず、
-必要な場合のみ既存章の責務を調整してください。
+The Core chapter structure is fixed as:
+
+```text
+01 — MANIFESTO
+02 — CREATIVE PRINCIPLES
+03 — CREATIVE PHENOMENA
+04 — EXPERIENCE COMPOSITION
+05 — COMPONENT LIBRARY
+06 — COMPOSITION PATTERNS
+07 — IMPLEMENTATION CONTRACT
+```
+
+New Core chapters must not be added.
+
+New needs should first be handled through:
+
+* revisions within an existing Core chapter.
+* companion Registries.
+* Validation documents.
+* Creative Fragments.
+* project-specific extensions.
+* the future Interaction Extension when appropriate.
+
+The structure is frozen.
+
+The content may continue to grow
+through observation,
+dialogue,
+experimentation,
+and real projects.

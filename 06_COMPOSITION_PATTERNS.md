@@ -107,7 +107,7 @@ Those decisions belong to:
 - project composition.
 - Implementation Contract.
 - project-specific extensions.
-- Interaction Patterns when needed.
+- Interaction Extension when needed.
 
 ### PRIMARY CONTEXT
 
@@ -157,6 +157,7 @@ Every Composition Pattern contains:
 - Starting State.
 - Perceptual Change.
 - Moment Sequence.
+- Dominant Moment.
 - Attention Path.
 - Component Roles.
 - Expression Boundary.
@@ -195,6 +196,14 @@ Examples include:
 ### PERCEPTUAL CHANGE
 
 A Pattern must define the change it creates.
+
+A Pattern’s Perceptual Change
+is the combined change created
+through the sequence of its Moments.
+
+It does not replace
+the individual perceptual change
+defined for each Moment.
 
 Use the following form:
 
@@ -316,7 +325,7 @@ A Composition Pattern may be represented as:
 ```
 Pattern
 ├── Entry Condition
-├── Primary Moment
+├── Dominant Moment
 ├── Supporting Moment
 ├── Resolution
 └── Continuation
@@ -343,9 +352,9 @@ It may receive:
 
 A Pattern should not ignore the meaning already established.
 
-### PRIMARY MOMENT
+### DOMINANT MOMENT
 
-The Primary Moment creates the Pattern’s central change.
+The Dominant Moment creates the Pattern’s central change.
 
 It should not share equal dominance with another Moment.
 
@@ -448,6 +457,26 @@ A small Pattern should not be forced to carry the entire page.
 
 ## 06.3 — CORE COMPOSITION PATTERNS
 
+This chapter defines
+the semantic role of each Core Pattern.
+
+COMPOSITION_PATTERN_REGISTRY.md
+is the source of truth
+for each Pattern’s current Status,
+operational fields,
+and validated contract.
+
+Capitalized Entry,
+Statement,
+and Release
+are Pattern names.
+
+Lowercase entry,
+statement,
+and release
+refer to phases
+defined by their immediate context.
+
 The Core System begins with seven Composition Patterns.
 
 ```
@@ -508,7 +537,7 @@ Statement should not become ordinary promotional language enlarged visually.
 
 It requires language or expression that can sustain emphasis.
 
-A Statement Pattern should be followed by evidence, development, or Release.
+A Statement Pattern should be followed by evidence, development, or a Release Pattern.
 
 Repeated Statements without support reduce credibility.
 
@@ -903,7 +932,7 @@ Every proposed or changed Pattern should answer:
 2. What is the Starting State?
 3. What perceptual change occurs?
 4. Which Moments are involved?
-5. Which Moment is Primary?
+5. Which Moment is Dominant?
 6. How does attention move?
 7. What causes the next Moment or Pattern?
 8. Which Components may support it?
@@ -926,7 +955,7 @@ The following rules are normative.
 
 1. Every Pattern MUST define one Intent.
 2. Every Pattern MUST define a perceptual change.
-3. Every Pattern MUST identify its Primary Moment.
+3. Every Pattern MUST identify its Dominant Moment.
 4. Every Pattern MUST preserve a meaningful relationship between Moments.
 5. Every Pattern MUST define a Completion Condition.
 6. Pattern adaptation MUST preserve Intent and relationship.
@@ -986,4 +1015,4 @@ When composition is unclear, use the following order:
 6. Select Components by responsibility.
 7. Remove repeated or unsupported Patterns.
 8. Preserve continuity.
-9. End with an appropriate degree of Release.
+9. End with an appropriate degree of release.

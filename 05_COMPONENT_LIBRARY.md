@@ -197,7 +197,7 @@ A Component must not introduce:
 - irreversible action.
 - complex workflow behavior.
 
-without being defined by an Interaction extension.
+without being defined by the Interaction Extension.
 
 ### ACCESSIBILITY RESPONSIBILITY
 
@@ -398,7 +398,7 @@ Examples may include:
 - collapsed.
 - unavailable.
 
-Processing, pending, error, success, and account-specific States belong to an Interaction extension.
+Processing, pending, error, success, and account-specific States belong to the Interaction Extension.
 
 ### SEMANTIC ANATOMY BEFORE VISUAL ANATOMY
 

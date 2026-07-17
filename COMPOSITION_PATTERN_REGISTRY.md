@@ -47,7 +47,7 @@ Intent
 Starting State
 Perceptual Change
 Moment Sequence
-Primary Moment
+Dominant Moment
 Supporting Roles
 May Use
 Must Not
@@ -89,7 +89,7 @@ presence
 → opening
 ```
 
-**Primary Moment**
+**Dominant Moment**
 
 - Recognition of the experience’s central presence.
 
@@ -166,7 +166,7 @@ attention
 → holding
 ```
 
-**Primary Moment**
+**Dominant Moment**
 
 - The statement becoming clear.
 
@@ -241,7 +241,7 @@ presence
 → possibility
 ```
 
-**Primary Moment**
+**Dominant Moment**
 
 - The environment becoming real.
 
@@ -320,7 +320,7 @@ origin
 → consequence
 ```
 
-**Primary Moment**
+**Dominant Moment**
 
 - The central change or relationship within the story.
 
@@ -400,7 +400,7 @@ identity
 → continuation
 ```
 
-**Primary Moment**
+**Dominant Moment**
 
 - The work becoming specific and memorable.
 
@@ -481,7 +481,7 @@ relevance
 → continuation
 ```
 
-**Primary Moment**
+**Dominant Moment**
 
 - The next possibility becoming appropriate and clear.
 
@@ -558,7 +558,7 @@ settlement
 → quiet
 ```
 
-**Primary Moment**
+**Dominant Moment**
 
 - Meaning becoming stable after expression.
 

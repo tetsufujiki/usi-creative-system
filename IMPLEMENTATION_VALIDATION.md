@@ -102,7 +102,7 @@ A documented exception must include:
 - [ ] Each Pattern has a defined Intent.
 - [ ] Each Pattern has a Starting State.
 - [ ] Each Pattern creates a perceptual change.
-- [ ] The Primary Moment is identified.
+- [ ] The Dominant Moment is identified.
 - [ ] The Completion Condition is understood.
 - [ ] The selected Pattern is not merely a fixed layout.
 

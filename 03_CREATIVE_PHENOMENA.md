@@ -15,7 +15,12 @@ response,
 and change.
 
 It connects the principles in 02 — CREATIVE PRINCIPLES
-to the visual and temporal language that will be developed in later chapters.
+to the visual and temporal language composed in
+04 — EXPERIENCE COMPOSITION
+and carried forward through
+05 — COMPONENT LIBRARY,
+06 — COMPOSITION PATTERNS,
+and 07 — IMPLEMENTATION CONTRACT.
 
 It addresses the meaning of an expression,
 how it behaves,
@@ -31,9 +36,17 @@ Three.js,
 SVG,
 or code.
 
-Those decisions belong to later chapters.
+Experience composition belongs to
+04 — EXPERIENCE COMPOSITION.
 
-## 03.1 — WHAT CREATIVE PHENOMENA IS
+Reusable roles and relationships belong to
+05 — COMPONENT LIBRARY
+and 06 — COMPOSITION PATTERNS.
+
+Technical implementation belongs to
+07 — IMPLEMENTATION CONTRACT.
+
+## 03.1 — WHAT A CREATIVE PHENOMENON IS
 
 Creative Phenomena begin with a Creative Principle.
 
@@ -129,7 +142,7 @@ A working translation frame is:
 ```text
 Creative Principle
 ↓
-Creative State
+Creative Condition
 ↓
 Perceptual Quality
 ↓
@@ -137,6 +150,12 @@ Behavior
 ↓
 Expression
 ```
+
+Creative Condition names
+the originating condition of creation.
+
+Perceptual State names
+the resulting condition that can be sensed.
 
 This is not a fixed production sequence.
 It is a way to keep expression connected to meaning
@@ -211,7 +230,7 @@ The current areas of study are:
 - Repetition.
 - Settlement.
 - Trace.
-- Release.
+- release.
 
 An existing sense of time can be expressed as:
 
@@ -324,3 +343,67 @@ Each proposed phenomenon should answer:
 10. Would removing it make the experience stronger?
 
 **If removing it makes the experience stronger, remove it.**
+
+## CHAPTER DECISION RULES
+
+The following rules are normative.
+
+### MUST
+
+1. Every Creative Phenomenon MUST begin with a Creative Principle.
+2. Every Creative Phenomenon MUST define a perceptible change.
+3. Creative Phenomena MUST NOT become decorative effects.
+4. A Phenomenon MUST remain meaningful after visual complexity has been reduced.
+5. Photography and Creative Phenomena MUST retain distinct responsibilities.
+6. A Phenomenon MUST settle,
+   leave,
+   or become still when its role is complete.
+7. A Phenomenon without a definable source MUST be removed.
+
+### SHOULD
+
+1. One Primary Phenomenon SHOULD be used per Moment.
+2. Stillness SHOULD be treated as an active state.
+3. Perceptual change SHOULD be preferred over visual complexity.
+4. Creative Phenomena SHOULD support rather than compete with information.
+5. A Phenomenon SHOULD preserve a meaningful trace when its role requires one.
+6. Mobile SHOULD be used as the native test of reduction.
+7. Human judgment SHOULD determine whether AI-generated expression belongs.
+
+### MAY
+
+1. A Phenomenon MAY remain completely still.
+2. Creative Phenomena MAY be absent when another medium completes the meaning.
+3. A Phenomenon MAY use a cause that does not exist in the physical world.
+4. AI MAY propose behaviors and combinations within the defined meaning.
+5. A Phenomenon MAY leave no visible trace when its meaning is complete.
+
+## CODEX INTERPRETATION BOUNDARY
+
+Codex MUST NOT infer that:
+
+- every section requires a Creative Phenomenon.
+- Creative Phenomena are another name for Motion or Animation.
+- waveforms,
+  particles,
+  ripples,
+  or gradients are inherently musical.
+- physical accuracy creates creative truth.
+- every phenomenon requires continuous movement.
+- every phenomenon requires advanced rendering.
+- visual complexity creates stronger meaning.
+- AI-generated novelty is sufficient reason to use an expression.
+- Photography and Creative Phenomena may replace each other.
+- a phenomenon should remain active after its role is complete.
+
+When a phenomenon is unclear,
+use the following order:
+
+1. Identify the Creative Principle.
+2. Define the perceptual change.
+3. Identify the necessary relation or response.
+4. Compose at Mobile scale.
+5. Remove familiar effects that do not carry meaning.
+6. Define what remains after the change.
+7. Let the phenomenon settle.
+8. Remove it when the experience becomes stronger without it.

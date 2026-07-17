@@ -1,5 +1,36 @@
 # 02 — CREATIVE PRINCIPLES
 
+## 02.0 — PURPOSE
+
+This chapter defines the philosophical principles
+through which an 音のタネ grows into creation.
+
+It defines:
+
+- the source of creation.
+- the conditions that allow it to grow.
+- the meaning of dialogue,
+  resonance,
+  silence,
+  breath,
+  emergence,
+  and release.
+- the judgment that keeps creation at the center.
+
+This chapter defines meaning.
+
+It does not define how those principles appear
+through image,
+behavior,
+time,
+or change.
+
+Their perceptible expression belongs to
+03 — CREATIVE PHENOMENA.
+
+Their composition into an experience belongs to
+04 — EXPERIENCE COMPOSITION.
+
 ## 02.1 — FIRST PRINCIPLE
 
 Creation comes first.
@@ -54,9 +85,18 @@ It is the pursuit of essence.
 It clarifies what must remain
 so that an 音のタネ is not buried beneath unnecessary expression.
 
-## 02.3 — CREATIVE DECISION ORDER
+## 02.3 — BRIDGE TO CREATIVE PHENOMENA
 
-<!-- TODO: Creative Decision Order is deferred pending further dialogue. Fragment 04 is not part of the Alpha body. -->
+These Creative Principles become perceptible
+through 03 — CREATIVE PHENOMENA.
+
+02 defines their philosophical meaning.
+
+03 defines how they may appear
+through behavior,
+time,
+response,
+and change.
 
 ## 02.4 — EVALUATION
 
@@ -76,68 +116,3 @@ Every decision must answer one question.
 そのデザインは、\
 どれほど美しくても、\
 United Studio のデザインではない。
-
-<!-- TODO: Conditions of Creation (Challenge / Dialogue / Safety) remains a Creative Fragment and is not part of the Alpha body. -->
-
-## CREATIVE PHENOMENA
-
-Creative Phenomena are how creative principles become perceptible
-through image,
-movement,
-and time.
-
-They are not another name for Motion or Animation.
-
-They translate what cannot be directly seen
-into phenomena that can be felt in digital form:
-the process of creation,
-the sign of a feeling taking form,
-resonance between people,
-sound,
-and space,
-the moment a small seed begins to gain contour,
-the breath within stillness,
-and the state of something still emerging.
-
-Photography and Creative Phenomena carry different kinds of reality.
-
-Photography carries the reality of trust.
-
-It shows the environment,
-equipment,
-people,
-and place that exist.
-
-Creative Phenomena carry the reality of creation.
-
-They express the feeling,
-process,
-resonance,
-growth,
-and presence that photography cannot record directly.
-
-Neither replaces the other.
-
-Creative Phenomena do not add a fourth axis to the Creative Compass.
-
-They are the three axes appearing through time and change:
-Movement and Stillness both shape a phenomenon;
-Contrast and Harmony create resonance and contour;
-Dialogue allows Creation to emerge.
-
-AI is not the protagonist of this process.
-
-It is not merely a tool for imitating photography,
-reproducing existing design,
-or automating layout.
-
-AI can work with people as a co-creator—
-helping discover expressions that have not yet been verbalized or visualized,
-and helping grow an expressive language that did not exist before.
-
-The person,
-the feeling,
-the creation,
-and the 音のタネ remain at the center.
-
-AI remains a means of expressing the process that cannot yet be seen.
