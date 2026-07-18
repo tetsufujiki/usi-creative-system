@@ -169,7 +169,7 @@ to the Composition Pattern defined in 06.
 ## 04.1 — ONE MOMENT PER SCREEN
 
 A Screen may contain many elements,
-but it should hold one primary Moment.
+but it should hold one Dominant Moment.
 
 A Moment is not a component,
 a route,
@@ -475,7 +475,7 @@ silence
 → release
 ```
 
-**Silence**
+**silence**
 
 Creates room before meaning appears.
 
@@ -483,7 +483,7 @@ Creates room before meaning appears.
 
 Makes the center of the Moment clear.
 
-**Movement**
+**movement**
 
 Allows relation,
 change,
